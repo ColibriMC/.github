@@ -30,5 +30,5 @@ ColibriMC is commercial software and is not open source. Access, deployment, and
 
 ## Support & Bug Reports
 
-- **Bug Reports:** Submit technical issues to [GitHub Issues](https://github.com/ColibriMC/ColibriMC/issues).
+- **Bug Reports:** Submit technical issues to [GitHub Issues](https://github.com/ColibriMC/.github/issues).
 - **Technical Support & Inquiries:** Join the [Discord Server](https://discord.gg/de8DpUpUCf).
